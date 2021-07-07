@@ -6,9 +6,9 @@ public class HelloWorld {
 		System.out.println("Teste Pull Request!!!!");
 		System.out.println("Branch Main + Eclipse + Bash - Merge!");
 		System.out.println("Criando um novo commit para a Prática 3 - Natasha Barbachan");
+		System.out.println("Teste Pull Request!!!");
 		System.out.println("Criando um novo commit para a Prática 3 - José Santana");
-		
-        System.out.println("Commit Eclipse + BASH !!!");
+		System.out.println("Commit Eclipse + BASH !!!");
 		System.out.println("Criando um novo commit - Natasha Barbachan");
 		System.out.println("Criando um novo commit - Nelson Henrique");
 		System.out.println("Criando um novo commit - Gleydson GalvÃ£o");
